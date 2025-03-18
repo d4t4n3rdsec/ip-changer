@@ -1,6 +1,7 @@
-# ip-changer
+
 IP Changer 
 #Usage
+
 Run the script with root privileges:
 
 #sudo ./ip-changer.sh
